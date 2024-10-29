@@ -6,11 +6,11 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  authDomain: "gpt-clone-9ae32.firebaseapp.com",
-  projectId: "gpt-clone-9ae32",
-  storageBucket: "gpt-clone-9ae32.appspot.com",
-  messagingSenderId: "998028515281",
-  appId: "1:998028515281:web:33537949b97433a66eb2f0",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
